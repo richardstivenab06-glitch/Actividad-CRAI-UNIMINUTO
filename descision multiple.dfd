@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+edad
+1
+0
+4
+1
+15
+'ingresar edad'
+7
+0
+1
+21
+edad>=20 AND edad<=50
+7
+0
+1
+20
+edad>15 AND edad< 15
+13
+4
+1
+36
+'la persona es un joven estudiante.'
+13
+13
+4
+1
+40
+'la persona es un adulto profesionista.'
+13
+1
